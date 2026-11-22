@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "name": "FreeStream",
+  "lists": [
+    {
+      "id": "footpaul",
+      "name": "FootPaul",
+      "category": "Fútbol",
+      "description": "Selección comunitaria de canales de fútbol. La disponibilidad de cada emisión depende de su origen.",
+      "url": "https://raw.githubusercontent.com/ImPaul17/FreeStream/main/FootPaul.m3u",
+      "website": "https://github.com/ImPaul17/FreeStream",
+      "source": "https://github.com/tutw/platinsport-m3u-updater/blob/main/canales_acestream.m3u",
+      "updatedAt": "2026-11-22T22:24:20.043Z",
+      "channelCount": 24,
+      "sha256": "23d1c126e2cd5de8f80413f2cd7f261e33350d11037e8e00d8679c4c1afbe51d"
+    }
+  ]
+}
