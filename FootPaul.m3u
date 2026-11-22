@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal 1" tvg-logo="" group-title="España · Primera Federación",Canal 1
+acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
+#EXTINF:-1 tvg-id="Canal 2" tvg-logo="" group-title="España · Primera Federación",Canal 2
+acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" group-title="España · LaLiga",M. LaLiga · New Loop
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" group-title="España · LaLiga",Movistar la liga HDR · NEW ERA III
+acestream://7108ad98920a87cc7dc857748e69a5d725890b98
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" group-title="España · LaLiga",MOVISTAR LALIGA · NEW ERA VI
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" group-title="España · LaLiga",M. LaLiga 2 · New Loop
+acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-id="M+ LaLiga 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%203.png" group-title="España · LaLiga",M. LaLiga 3 · New Loop
+acestream://571ce113b9d600a145766443d7417eccab2e1846
+#EXTINF:-1 tvg-id="M+ LaLiga 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%204.png" group-title="España · LaLiga",M. LaLiga 4 · New Loop
+acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="España · LaLiga",DAZN LALIGA · NEW ERA VI
+acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="España · LaLiga",DAZN liga · NEW ERA III
+acestream://f43ef903dc750610978b47df47a0cb389413fe61
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="España · Segunda",LALIGA HYPERMOTION · NEW ERA VI
+acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="Champions League",M. Liga de Campeones · New Loop
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="Champions League",M. Liga de Campeones 2 · New Loop
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="Champions League",M. Liga de Campeones 3 · New Loop
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="Champions League",M. Liga de Campeones 4 · New Loop
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1 tvg-id="Primera Federación" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" group-title="España · Primera Federación",1 Federacion (SOLO EVENTOS) · NEW ERA III
+acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-logo="https://i.ibb.co/f1TTYBf/skysportb.png" group-title="Alemania · Bundesliga",Sky Bundesliga
+acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+#EXTINF:-1 tvg-id="sportdigital.Fussball.de" tvg-logo="https://i.ibb.co/pvXGRmY/sportdigital.webp" group-title="Internacional · Fútbol",SPORTDIGITAL
+acestream://5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+#EXTINF:-1 tvg-id="UK | Sky Sport Premier League" tvg-logo="https://i.ibb.co/w4sF0dt/premier.png" group-title="Inglaterra · Premier League",Sky Sport Premier League f5e
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1 tvg-id="UK | Sky Sport Football" tvg-logo="https://i.ibb.co/whnhzMk/skyfootball.png" group-title="Inglaterra · Fútbol",Sky Sport Football 38e
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-id="match-football1" tvg-logo="https://i.ibb.co/rZkdQg5/Mfootball1.png" group-title="Internacional · Fútbol",MATCH! Football HD ef2
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-id="match-football2" tvg-logo="https://i.ibb.co/Wzkyp7j/Mfootball2.png" group-title="Internacional · Fútbol",MATCH! Football 2 0a9
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-id="match-football3" tvg-logo="https://i.ibb.co/KmzhVjp/Mfootball3.png" group-title="Internacional · Fútbol",MATCH! Football 3 f04
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-id="football-ru" tvg-logo="https://i.ibb.co/nQRnPMY/Football.png" group-title="Internacional · Fútbol",Футбол HD a0b
+acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
